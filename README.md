@@ -70,4 +70,4 @@ Acceso Público
 
 Si deseas ver la aplicación ejecutándose públicamente, puedes acceder a esta URL:
 
-https://6032-186-28-51-44.ngrok-free.app/
+ https://7c4b-186-30-14-98.ngrok-free.app
